@@ -1,0 +1,23 @@
+{
+  "name": "rx-js-easing",
+  "version": "0.0.1",
+  "description": "Robert Penner's easing functions as Observables.",
+  "main": "lib/rx.easing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trxcllnt/rx-js-easing.git"
+  },
+  "keywords": [
+    "rx",
+    "rxjs",
+    "easing"
+  ],
+  "author": "Paul Taylor <paul.e.taylor@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trxcllnt/rx-js-easing/issues"
+  }
+}
