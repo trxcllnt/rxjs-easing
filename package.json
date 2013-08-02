@@ -1,6 +1,6 @@
 {
   "name": "rxjs-easing",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Robert Penner's easing functions as Observables.",
   "main": "lib/rx.easing.js",
   "scripts": {
@@ -16,6 +16,7 @@
     "easing"
   ],
   "dependencies": {
+    "lodash": "*",
     "rx": "*",
     "rx-dom": "*"
   },
