@@ -16,7 +16,6 @@
     "easing"
   ],
   "dependencies": {
-    "lodash": "*",
     "rx": "*",
     "rx-dom": "*"
   },
