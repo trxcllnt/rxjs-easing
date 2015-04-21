@@ -1,0 +1,28 @@
+{
+  "name": "rxjs-easing-examples",
+  "version": "1.0.0",
+  "description": "Examples that use the rxjs-easing Observables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "beefy index.js --debug=false"
+  },
+  "keywords": [
+    "RxJS",
+    "Easing",
+    "Streams",
+    "Observables"
+  ],
+  "author": "Paul Taylor <paul.e.taylor@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "beefy": "^2.1.5",
+    "browserify": "^9.0.8",
+    "jquery": "^2.1.3",
+    "rx": "^2.5.2",
+    "rx-dom": "^5.0.3",
+    "rx-jquery": "^1.1.7",
+    "rxjs-gestures": "^0.1.0",
+    "transform-property": "0.0.1"
+  }
+}
